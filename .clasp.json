@@ -1,0 +1,8 @@
+{
+  "scriptId": "script-id-xxxxxxxxxxxxxxxxxxxxx",
+  "projectId": "project-id-xxxxxxxxxxxxxxxxxxx",
+  "filePushOrder": [
+    "properties.js",
+    "constants.js"
+  ]
+}
